@@ -1,0 +1,27 @@
+﻿[Dictionary]
+Version=CSPro 6.1
+Label=Dictionary01
+Name=DICTIONARY01_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Dictionary01 questionnaire
+Name=DICTIONARY01_QUEST
+
+[IdItems]
+
+[Item]
+Label=Dictionary01 identification
+Name=DICTIONARY01_ID
+Start=2
+Len=1
+
+[Record]
+Label=Dictionary01 record
+Name=DICTIONARY01_REC
+RecordTypeValue='1'
+RecordLen=1

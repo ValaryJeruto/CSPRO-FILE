@@ -1,0 +1,15 @@
+﻿[CSPro Application]
+Version=CSPro 6.1
+Label=VALLENTRY
+Name=VALLENTRY
+AppType=DataEntry
+[AppCode]
+File=.\Questionnaire file.ent.apc
+[Message]
+File=.\Questionnaire file.ent.mgf
+[Help]
+File=.\Questionnaire file.ent.qsf
+[Forms]
+File=.\Questionnaire file.fmf
+[Dictionary Types]
+Dict-Type=.\Questionnaire file.dcf,Input,.\Questionnaire file.fmf
